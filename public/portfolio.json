@@ -1,129 +1,6 @@
 [
   {
-    "id": 1,
-    "projectName": "Bright Gadget",
-    "bannerTitle": "Bright Gadget – Modern Gadget E-commerce Store",
-    "bannerDescription": "Bright Gadget is a sleek, high-performance single-vendor e-commerce platform designed for selling gadgets, electronics, and smart accessories. Built with user-friendly navigation, lightning-fast product browsing, and secure checkout, this platform offers a smooth shopping experience tailored for tech enthusiasts. From mobile devices and headphones to cutting-edge gadgets, Bright Gadget provides a visually engaging and reliable solution for online gadget stores.",
-    "bannerImg": "/images/portfolio/BrightGadget/home/brightgadget_banner_1.png",
-    "projectDetails": [
-      {
-        "home": [
-          "/images/portfolio/BrightGadget/home/gadget_home_1.png",
-          "/images/portfolio/BrightGadget/home/gadget_home_2.png",
-          "/images/portfolio/BrightGadget/home/gadget_home_3.png"
-        ]
-      },
-      {
-        "features": [
-          "/images/portfolio/BrightGadget/feature/feature_1.png",
-          "/images/portfolio/BrightGadget/feature/feature_2.png",
-          "/images/portfolio/BrightGadget/feature/feature_3.png",
-          "/images/portfolio/BrightGadget/feature/feature_4.png",
-          "/images/portfolio/BrightGadget/feature/feature_5.png"
-        ],
-        "featuresDescription": [
-          {
-            "subtitle": "⚡ Fast Gadget Browsing",
-            "details": "Optimized product listing and smart filtering for categories like mobiles, laptops, headphones, and accessories."
-          },
-          {
-            "subtitle": "🔐 Secure Checkout Process",
-            "details": "Streamlined cart and checkout system with safe and reliable payment integrations for worry-free transactions."
-          },
-          {
-            "subtitle": "📱 Responsive & Modern Design",
-            "details": "Mobile-first design ensures smooth shopping across smartphones, tablets, and desktops."
-          }
-        ]
-      },
-      {
-        "dashboard": [
-          "/images/portfolio/BrightGadget/dashboard/dashboard_1.png",
-          "/images/portfolio/BrightGadget/dashboard/dashboard_2.png",
-          "/images/portfolio/BrightGadget/dashboard/dashboard_3.png",
-          "/images/portfolio/BrightGadget/dashboard/dashboard_4.png"
-        ],
-        "dashboardDescription": [
-          {
-            "subtitle": "📦 Product & Inventory Management",
-            "details": "Easily add, edit, and manage gadgets with real-time stock updates and low-inventory alerts."
-          },
-          {
-            "subtitle": "🛍️ Order Tracking Dashboard",
-            "details": "Monitor all orders, payment statuses, and delivery updates from a single admin panel."
-          },
-          {
-            "subtitle": "👨‍💻 Customer Management",
-            "details": "Track customer details, purchase history, and support requests to improve retention."
-          },
-          {
-            "subtitle": "📊 Sales Reports & Analytics",
-            "details": "Gain insights into top-selling gadgets, revenue growth, and customer buying behavior with detailed reports."
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": 2,
-    "projectName": "Ecom Stores",
-    "bannerTitle": "Ecom Stores – Elegant Jewelry & Fashion Shop",
-    "bannerDescription": "Ecom Stores is a beautifully designed single-vendor e-commerce website focused on women’s fashion and jewelry. From gold necklaces and diamond earrings to stylish accessories, this platform delivers a premium shopping experience with a luxurious look and feel. Tailored for fashion lovers, Ecom Stores combines elegance with functionality, offering an easy-to-use interface, secure payment options, and a seamless buying journey.",
-    "bannerImg": "/images/portfolio/EcomStores/home/ecomstores_banner.jpg",
-    "projectDetails": [
-      {
-        "home": [
-          "/images/portfolio/EcomStores/home/home_full.png",
-          "/images/portfolio/EcomStores/home/home_1.png",
-          "/images/portfolio/EcomStores/home/collection.png"
-        ]
-      },
-      {
-        "features": [
-          "/images/portfolio/EcomStores/feature/product_details.png",
-          "/images/portfolio/EcomStores/feature/cart.png",
-          "/images/portfolio/EcomStores/feature/wishlist.png"
-        ],
-        "featuresDescription": [
-          {
-            "subtitle": "💍 Elegant Product Showcasing",
-            "details": "High-quality images and detailed descriptions for jewelry, necklaces, earrings, and accessories."
-          },
-          {
-            "subtitle": "🛒 Smooth Shopping Experience",
-            "details": "Easy cart management, secure checkout, and multiple payment integrations for customer convenience."
-          },
-          {
-            "subtitle": "💖 Wishlist & Favorites",
-            "details": "Customers can save their favorite items for future purchases with a personalized wishlist feature."
-          }
-        ]
-      },
-      {
-        "dashboard": [
-          "/images/portfolio/EcomStores/dashboard/products.png",
-          "/images/portfolio/EcomStores/dashboard/orders.png",
-          "/images/portfolio/EcomStores/dashboard/reports.png"
-        ],
-        "dashboardDescription": [
-          {
-            "subtitle": "💎 Product & Category Management",
-            "details": "Manage jewelry collections, update categories, and organize products for better store navigation."
-          },
-          {
-            "subtitle": "🧾 Order & Customer Dashboard",
-            "details": "View customer details, order history, and payment confirmations in a centralized dashboard."
-          },
-          {
-            "subtitle": "📊 Business Analytics",
-            "details": "Track revenue growth, popular product categories, and customer demographics through detailed analytics."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 3,
     "projectName": "Ecommerce",
     "bannerTitle": "Full-Featured Multi-Vendor E-commerce Platform",
     "bannerDescription": "Everything you need to sell online — built with speed, usability, and flexibility in mind.This custom-built e-commerce system is designed to make online shopping smooth for customers and effortless for store owners. From product browsing to order tracking, it covers every step of the buying journey—while giving admins full control over the business backend. Whether you’re a solo store owner or managing a marketplace with dozens of vendors, this platform adapts to your needs.",
@@ -183,6 +60,71 @@
           {
             "subtitle": "Customer Support Handling",
             "details": "Handle customer queries, returns, and feedback efficiently with built-in support tools."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "projectName": "Bright Gadget",
+    "bannerTitle": "Bright Gadget – Modern Gadget E-commerce Store",
+    "bannerDescription": "Bright Gadget is a sleek, high-performance single-vendor e-commerce platform designed for selling gadgets, electronics, and smart accessories. Built with user-friendly navigation, lightning-fast product browsing, and secure checkout, this platform offers a smooth shopping experience tailored for tech enthusiasts. From mobile devices and headphones to cutting-edge gadgets, Bright Gadget provides a visually engaging and reliable solution for online gadget stores.",
+    "bannerImg": "/images/portfolio/BrightGadget/home/brightgadget_banner_1.png",
+    "projectDetails": [
+      {
+        "home": [
+          "/images/portfolio/BrightGadget/home/gadget_home_1.png",
+          "/images/portfolio/BrightGadget/home/gadget_home_2.png",
+          "/images/portfolio/BrightGadget/home/gadget_home_3.png"
+        ]
+      },
+      {
+        "features": [
+          "/images/portfolio/BrightGadget/feature/feature_1.png",
+          "/images/portfolio/BrightGadget/feature/feature_2.png",
+          "/images/portfolio/BrightGadget/feature/feature_3.png",
+          "/images/portfolio/BrightGadget/feature/feature_4.png",
+          "/images/portfolio/BrightGadget/feature/feature_5.png"
+        ],
+        "featuresDescription": [
+          {
+            "subtitle": "⚡ Fast Gadget Browsing",
+            "details": "Optimized product listing and smart filtering for categories like mobiles, laptops, headphones, and accessories."
+          },
+          {
+            "subtitle": "🔐 Secure Checkout Process",
+            "details": "Streamlined cart and checkout system with safe and reliable payment integrations for worry-free transactions."
+          },
+          {
+            "subtitle": "📱 Responsive & Modern Design",
+            "details": "Mobile-first design ensures smooth shopping across smartphones, tablets, and desktops."
+          }
+        ]
+      },
+      {
+        "dashboard": [
+          "/images/portfolio/BrightGadget/dashboard/dashboard_1.png",
+          "/images/portfolio/BrightGadget/dashboard/dashboard_2.png",
+          "/images/portfolio/BrightGadget/dashboard/dashboard_3.png",
+          "/images/portfolio/BrightGadget/dashboard/dashboard_4.png"
+        ],
+        "dashboardDescription": [
+          {
+            "subtitle": "📦 Product & Inventory Management",
+            "details": "Easily add, edit, and manage gadgets with real-time stock updates and low-inventory alerts."
+          },
+          {
+            "subtitle": "🛍️ Order Tracking Dashboard",
+            "details": "Monitor all orders, payment statuses, and delivery updates from a single admin panel."
+          },
+          {
+            "subtitle": "👨‍💻 Customer Management",
+            "details": "Track customer details, purchase history, and support requests to improve retention."
+          },
+          {
+            "subtitle": "📊 Sales Reports & Analytics",
+            "details": "Gain insights into top-selling gadgets, revenue growth, and customer buying behavior with detailed reports."
           }
         ]
       }
@@ -433,6 +375,64 @@
           {
             "subtitle": "Income & Expense Tracking",
             "details": "Monitor your income sources and daily expenses side by side. The system automatically organizes your cash flow, helping you maintain a clear financial picture."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "projectName": "4takeaway",
+    "bannerTitle": "Delicious Dining, Simplified Management",
+    "bannerDescription": "4takeaway is an all-in-one solution for restaurants, cafés, and food businesses. From showcasing your menu to managing orders and clients, it brings your entire restaurant online. Let guests explore dishes, book tables, and order with ease, while you track everything from a powerful dashboard. Designed for speed, security, and great user experience, it helps you serve customers better and grow your business effortlessly.",
+    "bannerImg": "/images/portfolio/resturant_1/home/home_3.png",
+    "projectDetails": [
+      {
+        "home": [
+          "/images/portfolio/resturant_1/home/home_3.png",
+          "/images/portfolio/resturant_1/home/home_2.png",
+          "/images/portfolio/resturant_1/home/home_4.png"
+        ]
+      },
+      {
+        "features": [
+          "/images/portfolio/resturant_1/feature/feature_menu.png",
+          "/images/portfolio/resturant_1/feature/feature_menu_details.png",
+          "/images/portfolio/resturant_1/feature/feature_order.png"
+        ],
+        "featuresDescription": [
+          {
+            "subtitle": "Interactive Menu",
+            "details": "Present your dishes with high-quality images, pricing, and descriptions. Customers can browse easily and get inspired to order."
+          },
+          {
+            "subtitle": "Detailed Menu Pages",
+            "details": "Highlight ingredients, portion sizes, allergens, and chef notes for each item, giving diners clarity before ordering."
+          },
+          {
+            "subtitle": "Quick Ordering System",
+            "details": "Customers can add items to cart, customize dishes, and place orders in seconds — ideal for both dine-in and takeaway."
+          }
+        ]
+      },
+      {
+        "dashboard": [
+          "/images/portfolio/resturant_1/dashboard/dashboard.png",
+          "/images/portfolio/resturant_1/dashboard/dashboard_orders.png",
+          "/images/portfolio/resturant_1/dashboard/dashboard_clients.png"
+        ],
+        "dashboardDescription": [
+          {
+            "subtitle": "Smart Dashboard",
+            "details": "Monitor sales, reservations, and order trends in one intuitive view. Get a complete picture of your restaurant’s performance."
+          },
+          {
+            "subtitle": "Order Management",
+            "details": "Track incoming, in-progress, and completed orders in real time. Keep your kitchen and service staff perfectly synchronized."
+          },
+          {
+            "subtitle": "Client Records & Insights",
+            "details": "Store customer details, preferences, and order history to personalize experiences and build loyalty."
           }
         ]
       }

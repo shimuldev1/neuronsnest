@@ -167,7 +167,7 @@ const Career = () => {
                   <h3 className="text-white font-manrope lg:text-4xl text-3xl font-semibold leading-10 mb-5">
                     Don't see the role you're interested in?
                   </h3>
-                  <p className="text-black dark:text-slate-300 text-xl font-normal leading-8">
+                  <p className="text-white dark:text-slate-300 text-xl font-normal leading-8">
                     We’re always looking for talented people to join our team.
                     Send us your CV and we will contact you for any future
                     roles.
