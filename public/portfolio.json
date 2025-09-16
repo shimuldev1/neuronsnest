@@ -385,7 +385,7 @@
     "projectName": "4takeaway",
     "bannerTitle": "Delicious Dining, Simplified Management",
     "bannerDescription": "4takeaway is an all-in-one solution for restaurants, cafés, and food businesses. From showcasing your menu to managing orders and clients, it brings your entire restaurant online. Let guests explore dishes, book tables, and order with ease, while you track everything from a powerful dashboard. Designed for speed, security, and great user experience, it helps you serve customers better and grow your business effortlessly.",
-    "bannerImg": "/images/portfolio/resturant_1/home/home_3.png",
+    "bannerImg": "/images/portfolio/resturant_1/home/home_10.png",
     "projectDetails": [
       {
         "home": [
@@ -433,6 +433,64 @@
           {
             "subtitle": "Client Records & Insights",
             "details": "Store customer details, preferences, and order history to personalize experiences and build loyalty."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "projectName": "Asian Food",
+    "bannerTitle": "Asian Food – Smart Restaurant & Food Delivery Platform",
+    "bannerDescription": "Asian Food is a modern restaurant and food delivery web application designed to make ordering and managing meals effortless. With an elegant menu, fast checkout, and a powerful admin dashboard, it helps restaurants present their dishes online, handle orders, and grow their customer base with ease. Built with clean code and responsive design, it delivers a seamless experience for both users and administrators.",
+    "bannerImg": "/images/portfolio/asian_food/home/home_10.png",
+    "projectDetails": [
+      {
+        "home": [
+          "/images/portfolio/asian_food/home/home.png",
+          "/images/portfolio/asian_food/home/home_2.png",
+          "/images/portfolio/asian_food/home/home_3.png"
+        ]
+      },
+      {
+        "features": [
+          "/images/portfolio/asian_food/feature/feature_menu.png",
+          "/images/portfolio/asian_food/feature/feature_menu_details.png",
+          "/images/portfolio/asian_food/feature/feature_city_order.png"
+        ],
+        "featuresDescription": [
+          {
+            "subtitle": "Interactive Menu",
+            "details": "Showcase delicious dishes with clear photos, prices, and descriptions. Customers can explore items and choose what they love most."
+          },
+          {
+            "subtitle": "Menu Details",
+            "details": "Provide full information about ingredients, portion sizes, and preparation style, helping users make confident choices."
+          },
+          {
+            "subtitle": "Featured Orders by City",
+            "details": "Highlight popular meals in different cities, encouraging users to discover top-rated items available in their area."
+          }
+        ]
+      },
+      {
+        "dashboard": [
+          "/images/portfolio/asian_food/dashboard/dashboard_main.png",
+          "/images/portfolio/asian_food/dashboard/dashboard_restaurants.png",
+          "/images/portfolio/asian_food/dashboard/dashboard_subscription.png"
+        ],
+        "dashboardDescription": [
+          {
+            "subtitle": "Comprehensive Dashboard",
+            "details": "View key metrics, order stats, and restaurant performance in one place. The dashboard is built for clarity and efficiency."
+          },
+          {
+            "subtitle": "Restaurant Management",
+            "details": "Add, edit, or organize restaurants with ease. Keep your platform updated and well-structured for a professional look."
+          },
+          {
+            "subtitle": "Subscription & Access Control",
+            "details": "Manage subscription plans and user permissions to ensure smooth operations and secure platform access."
           }
         ]
       }
